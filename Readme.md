@@ -4,7 +4,6 @@
 
 `git clone https://github.com/codeforpakistan/first-commit.git`
 
-- it will create a folder name `first-commit`
 - open the `first-commit` folder
 - open the data folder
 - Add new obj/row in contributors.json like below
