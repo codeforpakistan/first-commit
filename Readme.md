@@ -1,4 +1,4 @@
-(Demo)[https://codeforpakistan.github.io/first-commit/]
+[Demo](https://codeforpakistan.github.io/first-commit/)
 
 # Step to Contribute
 
