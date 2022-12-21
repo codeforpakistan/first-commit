@@ -1,5 +1,5 @@
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href="https://github.com/codeforpakistan/first-commit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeforpakistan/first-commit" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).
