@@ -1,6 +1,6 @@
 [Demo](https://codeforpakistan.github.io/first-commit/)
 
-# Step to Contribute
+# Steps to Contribute
 
 # Clone Repo
 
@@ -8,7 +8,10 @@
 
 - open the `first-commit` folder
 - open the data folder
+- create new branch `git checkout -b branch-name`
 - Add new obj/row in contributors.json like below
+- Commit your changes ` git commit -am 'commit msg'`
+- Push to remote repo 'git push origin branch-name`
 
 ```
   {
