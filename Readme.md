@@ -10,7 +10,15 @@
 
 ![fork](./assets/fork.png)
 
+# Clone Your Fork
+
+- Fork is basically a copy of that repository created under your username, clone it
+- `git clone https://github.com/yourgithub-username/first-commit.git`
+- It will create a folder `first-commit`
+
 # Upstream to Orignal Repo
+
+- Open the bash or terminal inside your `first-commit` folder
 
 - Add upstream to orignal repo to sync before doing any new changes to avoid conflicts
 
@@ -48,6 +56,11 @@
 ```
 
 # Create a PR from your fork to original repo
+
+- Open your fork repo `https://github.com/yourgithub-username/first-commit.git`
+- Click on Pull Requst tab and create PR from your fork/branch to upstream/main branch
+
+![PR](./assets/PR.png)
 
 ## Contributors
 
