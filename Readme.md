@@ -6,7 +6,7 @@
 
  - Open Repo on github `https://github.com/codeforpakistan/first-commit.git`
  - On the top-right corner of the page, click Fork.
- - By default your username is selected in the owner if not selecte your username and click create fork
+ - By default your username is selected in the owner if not select your username and click create fork
 
 ![fork](./assets/fork.png)
 
