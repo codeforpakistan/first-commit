@@ -20,6 +20,11 @@
         "site": ""
     },
     {
+        "name": "Romayyah Khan",
+        "githubUsername": "Romayyahkhan",
+        "site": ""
+    },
+    {
         "name": "Nimra Ayaz",
         "githubUsername": "nimraayaz01",
         "site": ""
@@ -51,36 +56,29 @@
     },
     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-   
-   
-   
-   
-   
+ 
    
     {
         "name": "Iram Noor ",
         "githubUsername": "nooriram",
+         "site": ""
+         },
+        
+        
+
+    {
+        "name": "Yasira Mustafa",
+        "githubUsername": "yasira333",
+        "site": ""
+    },
+    {
+        "name": "Ayesha Saddique",
+        "githubUsername": "AayeshaUser",
+         "site": ""
+     },
+     {
+        "name": "Hafiza Hoor-e-Harram ",
+        "githubUsername": "hooreharram",
         "site": ""
     }
 
