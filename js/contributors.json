@@ -79,9 +79,14 @@
         "githubUsername": "Nafisa999",
         "site": ""
     },
-     {
+    {
         "name": "Fiza Zahid",
         "githubUsername": "FizaZ01",
         "site": ""
+    },
+    {
+        "name": "Khafsa Ehsan",
+        "githubUsername": "ehsankhafsa",
+        "site": "https://github.com/ehsankhafsa"
     }
 ]
