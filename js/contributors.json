@@ -37,6 +37,7 @@
     {
         "name": "Sehrish Jabeen",
         "githubUsername": "Sehrish-Jabeen",
+        "site":""
     },
     {
         "name": "Amna Mukhtar",
@@ -76,6 +77,11 @@
     {
         "name": "Nafisa",
         "githubUsername": "Nafisa999",
+        "site": ""
+    },
+    {
+        "name": "Sana Sikandar",
+        "githubUsername": "SanaSikandarCFP",
         "site": ""
     }
 ]
