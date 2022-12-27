@@ -20,6 +20,11 @@
         "site": ""
     },
     {
+        "name": "Romayyah Khan",
+        "githubUsername": "Romayyahkhan",
+        "site": ""
+    },
+    {
         "name": "Nimra Ayaz",
         "githubUsername": "nimraayaz01",
         "site": ""
@@ -28,6 +33,16 @@
         "name": "Arooba Siddiqui",
         "githubUsername": "asiddiqui29",
         "site": ""
+    },
+    {
+        "name": "Khushboo",
+        "githubUsername": "khushboo-cfp",
+        "site": "https://github.com/khushboo-cfp"
+    },
+    {
+        "name": "Sehrish Jabeen",
+        "githubUsername": "Sehrish-Jabeen",
+        "site":""
     },
     {
         "name": "Amna Mukhtar",
@@ -49,9 +64,54 @@
         "githubUsername": "Shahirah-Ejaz",
         "site": ""
     },
-        {
+    {
         "name": "Palwasha zafar",
         "githubUsername": "Palwashazafar",
+        "site": ""
+    },
+    {
+        "name": "Pakeeza Bibi",
+        "githubUsername": "pakeezabibi",
+        "site": ""
+    },
+    {
+        "name": "Maryam Inamullah",
+        "githubUsername": "MaryamInamullah",
+        "site": ""
+    },
+    {
+        "name": "Yasira Mustafa",
+        "githubUsername": "yasira333",
+        "site": ""
+    },
+    {
+        "name": "Ayesha Saddique",
+        "githubUsername": "AayeshaUser",
+         "site": ""
+     },
+     {
+        "name": "Hafiza Hoor-e-Harram ",
+        "githubUsername": "hooreharram",
+        "site": ""
+    },
+    {
+        "name": "Nafisa",
+        "githubUsername": "Nafisa999",
+        "site": ""
+    },
+    {
+        "name": "Fiza Zahid",
+        "githubUsername": "FizaZ01",
+        "site": ""
+    },
+    {
+        "name": "Khafsa Ehsan",
+        "githubUsername": "ehsankhafsa",
+        "site": "https://github.com/ehsankhafsa"
+    },
+    {
+        "name": "Iram Noor",
+        "githubUsername": "nooriram",
         "site": ""
     }
 ]
