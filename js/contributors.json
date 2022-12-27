@@ -1,81 +1,87 @@
 [
-    {
-        "name": "Muhammad Sohail",
-        "githubUsername": "sohail0992",
-        "site": "https://sohail0992.github.io"
-    },
-    {
-        "name": "Bushra Mustafa",
-        "githubUsername": "bushramustafa",
-        "site": ""
-    },
-    {
-        "name": "Hareera Mushtaq",
-        "githubUsername": "hareera1107",
-        "site": ""
-    },
-    {
-        "name": "Wajeeha Shafiq",
-        "githubUsername": "wajeehashafiq",
-        "site": ""
-    },
-    {
-        "name": "Romayyah Khan",
-        "githubUsername": "Romayyahkhan",
-        "site": ""
-    },
-    {
-        "name": "Nimra Ayaz",
-        "githubUsername": "nimraayaz01",
-        "site": ""
-    },
-    {
-        "name": "Arooba Siddiqui",
-        "githubUsername": "asiddiqui29",
-        "site": ""
-    },
-    {
-        "name": "Sehrish Jabeen",
-        "githubUsername": "Sehrish-Jabeen",
-    },
-    {
-        "name": "Amna Mukhtar",
-        "githubUsername": "amnamukhtar8",
-        "site": ""
-    },
-    {
-        "name": "Tajalla Iqbal",
-        "githubUsername": "TajallaI",
-        "site": ""
-    },
-    {
-        "name": "Hareem Khan",
-        "githubUsername": "hareemcfp",
-        "site": ""
-    },
-    {
-        "name": "Shahirah Ejaz",
-        "githubUsername": "Shahirah-Ejaz",
-        "site": ""
-    },
-    {
-        "name": "Yasira Mustafa",
-        "githubUsername": "yasira333",
-        "site": ""
-    },
-    {
-        "name": "Ayesha Saddique",
-        "githubUsername": "AayeshaUser",
-         "site": ""
-     },
-     {
-        "name": "Hafiza Hoor-e-Harram ",
-        "githubUsername": "hooreharram",
-        "site": ""
-    },
-    {
-        "name": "Nafisa",
-        "githubUsername": "Nafisa999",
-        "site": ""
-    }
+  {
+    "name": "Muhammad Sohail",
+    "githubUsername": "sohail0992",
+    "site": "https://sohail0992.github.io"
+  },
+  {
+    "name": "Bushra Mustafa",
+    "githubUsername": "bushramustafa",
+    "site": ""
+  },
+  {
+    "name": "Hareera Mushtaq",
+    "githubUsername": "hareera1107",
+    "site": ""
+  },
+  {
+    "name": "Wajeeha Shafiq",
+    "githubUsername": "wajeehashafiq",
+    "site": ""
+  },
+  {
+    "name": "Romayyah Khan",
+    "githubUsername": "Romayyahkhan",
+    "site": ""
+  },
+  {
+    "name": "Nimra Ayaz",
+    "githubUsername": "nimraayaz01",
+    "site": ""
+  },
+  {
+    "name": "Arooba Siddiqui",
+    "githubUsername": "asiddiqui29",
+    "site": ""
+  },
+  {
+    "name": "Sehrish Jabeen",
+    "githubUsername": "Sehrish-Jabeen",
+  },
+  {
+    "name": "Amna Mukhtar",
+    "githubUsername": "amnamukhtar8",
+    "site": ""
+  },
+  {
+    "name": "Tajalla Iqbal",
+    "githubUsername": "TajallaI",
+    "site": ""
+  },
+  {
+    "name": "Hareem Khan",
+    "githubUsername": "hareemcfp",
+    "site": ""
+  },
+  {
+    "name": "Shahirah Ejaz",
+    "githubUsername": "Shahirah-Ejaz",
+    "site": ""
+  },
+  {
+    "name": "Yasira Mustafa",
+    "githubUsername": "yasira333",
+    "site": ""
+  },
+  {
+    "name": "Ayesha Saddique",
+    "githubUsername": "AayeshaUser",
+    "site": ""
+  },
+  {
+    "name": "Hafiza Hoor-e-Harram ",
+    "githubUsername": "hooreharram",
+    "site": ""
+  },
+  {
+    "name": "Nafisa",
+    "githubUsername": "Nafisa999",
+    "site": ""
+  },
+
+  {
+    "name": "Tabinda Qudrat",
+    "githubUsername": "tabindaqudrat",
+    "site": ""
+  }
 ]
