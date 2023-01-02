@@ -29,10 +29,24 @@
         "githubUsername": "nimraayaz01",
         "site": ""
     },
+    {   "name": "Nitkarsh Chourasia",
+        "githubUsername": "NitkarshChourasia",
+        "site" : "https://nitkarshchourasia.github.io"
+    },
     {
         "name": "Arooba Siddiqui",
         "githubUsername": "asiddiqui29",
         "site": ""
+    },
+    {
+        "name": "Khushboo",
+        "githubUsername": "khushboo-cfp",
+        "site": "https://github.com/khushboo-cfp"
+    },
+    {
+        "name": "Sehrish Jabeen",
+        "githubUsername": "Sehrish-Jabeen",
+        "site":""
     },
     {
         "name": "Amna Mukhtar",
@@ -67,6 +81,21 @@
         
 
     {
+        "name": "Palwasha zafar",
+        "githubUsername": "Palwashazafar",
+        "site": ""
+    },
+    {
+        "name": "Pakeeza Bibi",
+        "githubUsername": "pakeezabibi",
+        "site": ""
+    },
+    {
+        "name": "Maryam Inamullah",
+        "githubUsername": "MaryamInamullah",
+        "site": ""
+    },
+    {
         "name": "Yasira Mustafa",
         "githubUsername": "yasira333",
         "site": ""
@@ -80,6 +109,56 @@
         "name": "Hafiza Hoor-e-Harram ",
         "githubUsername": "hooreharram",
         "site": ""
+    },
+    {
+        "name": "Nafisa",
+        "githubUsername": "Nafisa999",
+        "site": ""
+    },
+    {
+        "name": "Sana Sikandar",
+        "githubUsername": "SanaSikandarCFP",
+        "site": ""
+     },
+     {
+        "name": "Anum Shahzad",
+        "githubUsername": "AnumShahzad1998",
+        "site": "https://github.com/AnumShahzad1998"
+     },
+    {
+        "name": "Fiza Zahid",
+        "githubUsername": "FizaZ01",
+        "site": ""
+    },
+    {
+        "name": "Khafsa Ehsan",
+        "githubUsername": "ehsankhafsa",
+        "site": "https://github.com/ehsankhafsa"
+    },
+    {
+        "name": "Iram Noor",
+        "githubUsername": "nooriram",
+        "site": ""
+    },
+    {
+        "name": "Nimra Arif",
+        "githubUsername": "nimraarif1",
+        "site": ""
+    },
+    {
+        "name": "Nooria",
+        "githubUsername": "Nooriauser",
+        "site": ""
+    },
+    {
+        "name": "Hassan",
+        "githubUsername": "hasanmehmood",
+        "site": "https://www.linkedin.com/in/hasanmehmood/"
+    },
+    {
+        "name": "Ali",
+        "githubUsername": "alraza",
+        "site": "https://www.linkedin.com/in/aliirz/"
     }
 
 
