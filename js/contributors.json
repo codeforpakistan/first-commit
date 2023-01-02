@@ -142,5 +142,10 @@
         "name": "Hassan",
         "githubUsername": "hasanmehmood",
         "site": "https://www.linkedin.com/in/hasanmehmood/"
+    },
+    {
+        "name": "Ali",
+        "githubUsername": "alraza",
+        "site": "https://www.linkedin.com/in/aliirz/"
     }
 ]
